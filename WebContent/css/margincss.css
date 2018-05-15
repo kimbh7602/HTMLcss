@@ -1,0 +1,12 @@
+@charset "UTF-8";
+h2{
+	margin : 20px 0 0 50px;
+	border : solid;
+}
+div{
+	background-color : lightgrey;
+	width : 50%;
+	border : 25px solid green;
+	padding : 25px;
+	margin : 25px;
+}

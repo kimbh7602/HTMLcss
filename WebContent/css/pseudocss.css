@@ -1,0 +1,17 @@
+@charset "UTF-8";
+p::first-line{
+	color: #ff0000;
+	font-variant: small-caps;
+}
+.before::before{
+	content: url(../images/klematis4_big.jpg);
+}
+.after::after{
+	content: url(../images/klematis4_big.jpg);
+}
+.before:hover{
+	color: red;
+}
+.after:hover{
+	color: blue;
+}
